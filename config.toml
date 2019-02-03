@@ -1,0 +1,11 @@
+baseURL = "http://jesko.ml"
+languageCode = "en-us"
+title = "Jesko Dujmovic"
+theme = "m10c"
+
+[params]
+	author = "Jesko Dujmovic"
+	description = "my personal website"
+	[[params.social]]
+		name = "github"
+		url = "https://github.com/DerJesko"
